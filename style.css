@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.navbar {
+    background-color: #333;
+    border: none;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin-top: 10px;
+}
+
+.navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-nav > li > a:hover {
+    color: #f0f0f0;
+}
+
+.section {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 20px;
+}
